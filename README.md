@@ -19,6 +19,7 @@ This project aims to predict **late deliveries in advance** using historical ord
 ---
 
 ## 🏗️ Architecture
+![Architecture Diagram](architecture/architecture-diagram.png)
 Key workflow:
 
 1. Data stored in **Amazon S3**
